@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rutuja Nagrale</h1>
+- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutunagrale&label=Profile%20views&color=0e75b6&style=flat" alt="rutunagrale" /> </p>
@@ -16,7 +18,6 @@
 - 💬 Ask me about **C, C++ , C DSA**
 
 - 📫 How to reach me **rutujanagrale15@gmail.com**
-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 
 - ⚡ Fun fact **No Fun Fact**
